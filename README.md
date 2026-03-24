@@ -12,13 +12,17 @@ Built using **React, Next.js, and MongoDB**, LunaSkin focuses on personalization
 The homepage introduces LunaSkin with a clean, aesthetic, and responsive layout designed to enhance user engagement and accessibility.
 
 ### ✨ Hero Section
-![Homepage Hero]("C:\Users\Aanshi Bansal\Downloads\homepage.png")
+![Homepage Hero]<img width="1884" height="844" alt="homepage" src="https://github.com/user-attachments/assets/5a3a1d35-13b1-44fa-81a4-bb1d546ea026" />
+
 
 ### 🌷 Welcome Section
-![Homepage Welcome](./Downloads/homepage2.png")
+![Homepage Welcome]
+<img width="1841" height="745" alt="homepage2" src="https://github.com/user-attachments/assets/fca0090a-7ec3-41ab-93e4-ae34691f8ec7" />
+
 
 ### 💡 Features Overview
-![Homepage Features](homepage3.png)
+![Homepage Features]<img width="1851" height="707" alt="homepage3" src="https://github.com/user-attachments/assets/680e5dec-b2f0-41ef-80c9-a54204b79827" />
+
 
 ---
 
@@ -73,20 +77,23 @@ The homepage introduces LunaSkin with a clean, aesthetic, and responsive layout 
 ---
 
 ## 📁 Project Structure
+
+```
 LunaSkin/
 │
-├── app/ # Next.js app router pages
-├── components/ # Reusable UI components
-├── hooks/ # Custom React hooks
-├── lib/ # Database & helper utilities
-├── scripts/ # Automation scripts
-├── public/ # Static assets
-├── styles/ # Global styles
-├── .env.local # Environment variables
+├── app/                # Next.js app router pages
+├── components/         # Reusable UI components
+├── hooks/              # Custom React hooks
+├── lib/                # Database & helper utilities
+├── scripts/            # Automation scripts
+├── public/             # Static assets
+├── styles/             # Global styles
+├── .env.local          # Environment variables
 └── package.json
+```
 
 
----
+
 
 ## ⚙️ Installation & Setup
 
