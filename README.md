@@ -12,10 +12,10 @@ Built using **React, Next.js, and MongoDB**, LunaSkin focuses on personalization
 The homepage introduces LunaSkin with a clean, aesthetic, and responsive layout designed to enhance user engagement and accessibility.
 
 ### ✨ Hero Section
-![Homepage Hero](homepage.png)
+![Homepage Hero]("C:\Users\Aanshi Bansal\Downloads\homepage.png")
 
 ### 🌷 Welcome Section
-![Homepage Welcome](homepage2.png)
+![Homepage Welcome]("C:\Users\Aanshi Bansal\Downloads\homepage2.png")
 
 ### 💡 Features Overview
 ![Homepage Features](homepage3.png)
