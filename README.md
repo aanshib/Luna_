@@ -12,13 +12,13 @@ Built using **React, Next.js, and MongoDB**, LunaSkin focuses on personalization
 The homepage introduces LunaSkin with a clean, aesthetic, and responsive layout designed to enhance user engagement and accessibility.
 
 ### ✨ Hero Section
-![Homepage Hero](./screenshots/homepage.png)
+![Homepage Hero](homepage.png)
 
 ### 🌷 Welcome Section
-![Homepage Welcome](./screenshots/homepage2.png)
+![Homepage Welcome](homepage2.png)
 
 ### 💡 Features Overview
-![Homepage Features](./screenshots/homepage3.png)
+![Homepage Features](homepage3.png)
 
 ---
 
@@ -73,4 +73,36 @@ The homepage introduces LunaSkin with a clean, aesthetic, and responsive layout 
 ---
 
 ## 📁 Project Structure
+LunaSkin/
+│
+├── app/ # Next.js app router pages
+├── components/ # Reusable UI components
+├── hooks/ # Custom React hooks
+├── lib/ # Database & helper utilities
+├── scripts/ # Automation scripts
+├── public/ # Static assets
+├── styles/ # Global styles
+├── .env.local # Environment variables
+└── package.json
+
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/aanshib/luna-skincare_.git
+cd luna-skincare_
+
+### 2. Install Dependencies
+npm install
+
+MONGODB_URI=your_mongodb_connection_string
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+
+npm run dev
+
+open in browser- http://localhost:3000
 
