@@ -15,7 +15,7 @@ The homepage introduces LunaSkin with a clean, aesthetic, and responsive layout 
 ![Homepage Hero]("C:\Users\Aanshi Bansal\Downloads\homepage.png")
 
 ### 🌷 Welcome Section
-![Homepage Welcome]("C:\Users\Aanshi Bansal\Downloads\homepage2.png")
+![Homepage Welcome](./Downloads/homepage2.png")
 
 ### 💡 Features Overview
 ![Homepage Features](homepage3.png)
