@@ -12,16 +12,16 @@ Built using **React, Next.js, and MongoDB**, LunaSkin focuses on personalization
 The homepage introduces LunaSkin with a clean, aesthetic, and responsive layout designed to enhance user engagement and accessibility.
 
 ### ✨ Hero Section
-![Homepage Hero]<img width="1884" height="844" alt="homepage" src="https://github.com/user-attachments/assets/5a3a1d35-13b1-44fa-81a4-bb1d546ea026" />
+<img width="1884" height="844" alt="homepage" src="https://github.com/user-attachments/assets/5a3a1d35-13b1-44fa-81a4-bb1d546ea026" />
 
 
 ### 🌷 Welcome Section
-![Homepage Welcome]
+
 <img width="1841" height="745" alt="homepage2" src="https://github.com/user-attachments/assets/fca0090a-7ec3-41ab-93e4-ae34691f8ec7" />
 
 
 ### 💡 Features Overview
-![Homepage Features]<img width="1851" height="707" alt="homepage3" src="https://github.com/user-attachments/assets/680e5dec-b2f0-41ef-80c9-a54204b79827" />
+<img width="1851" height="707" alt="homepage3" src="https://github.com/user-attachments/assets/680e5dec-b2f0-41ef-80c9-a54204b79827" />
 
 
 ---
@@ -34,7 +34,9 @@ The homepage introduces LunaSkin with a clean, aesthetic, and responsive layout 
 - Provides structured skincare guidance
 
 📸 Screenshot  
-![Routine Generator](./screenshots/feature1png)(./screenshots/feature12.png)
+<img width="912" height="801" alt="feature1" src="https://github.com/user-attachments/assets/fd75117b-ba5d-4252-8db5-977b5644bc80" /> <img width="889" height="690" alt="feature12" src="https://github.com/user-attachments/assets/c160e8a8-b028-4c4f-b6fd-e9a73e389a81" />
+
+
 
 ---
 
@@ -44,7 +46,7 @@ The homepage introduces LunaSkin with a clean, aesthetic, and responsive layout 
 - Improves skincare consistency through automation
 
 📸 Screenshot  
-![Notifications](./screenshots/feature2.png)
+<img width="972" height="838" alt="feature2" src="https://github.com/user-attachments/assets/aae07924-11ab-4f8a-921f-4fa4874cd66f" />
 
 ---
 
@@ -54,7 +56,8 @@ The homepage introduces LunaSkin with a clean, aesthetic, and responsive layout 
 - Enhances decision-making with personalized suggestions
 
 📸 Screenshot  
-![Product Recommendations](./screenshots/feature3.png)
+<img width="854" height="729" alt="feature3" src="https://github.com/user-attachments/assets/ed79625f-0563-44f7-ad65-d2a343a75112" />
+
 
 ---
 
